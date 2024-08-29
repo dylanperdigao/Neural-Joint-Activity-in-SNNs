@@ -8,6 +8,8 @@ Our proposed SNN approach with neural joint activity enables the classification 
 
 **Keywords:** Spiking Neural Networks $\cdot$ Population Coding $\cdot$ Fraud Detection $\cdot$ Energy Efficiency $\cdot$ Responsible AI $\cdot$ Fair ML
 
+![Convolutional Spiking Neural Network Architecture](./images/csnnpc.png)
+
 ## Installation
 
 To install the required packages, run the following command:
@@ -22,7 +24,18 @@ The Bank Account Fraud (BAF) dataset is a synthetic dataset based on real-world 
 
 ## Repository Structure
 
-TBD
+The repository is structured as follows:
+- [`data`](./data/README.md): Contains the Bank Account Fraud dataset.
+- [`images`](./images): Contains the images used in this README file.
+- [`src`](./src): Contains the source code of the project.
+    - [`modules`](./modules): Contains the utilitary files used in the project.
+    - [`get_best_config.ipynb`](./src/get_best_config.ipynb): Jupyter notebook to find the best configurations for the 1D-Convolutional Spiking Neural Network architectures with population coding.
+    - [`get_best_hyperparams.ipynb`](./src/get_best_hyperparams.ipynb): Jupyter notebook to find the best combinations of hyperparameters for the 1D-Convolutional Spiking Neural Network architectures.
+    - [`main_evaluation.py`](./src/main_evaluation.py): Main script to run the experimentation that repeats the classification multiples times for each dataset.
+    - [`main_optimization.py`](./src/main_optimization.py): Main script to run the Bayesian Optimization of the 1D-Convolutional Spiking Neural Network architectures with population coding.
+    - [`plot_pareto_front.ipynb`](./src/plot_pareto_front.ipynb): Jupyter notebook to plot the Pareto front of the optimized architectures.
+    - [`plot_scatter.ipynb`](./src/plot_scatter.ipynb): Jupyter notebook to plot the scatter plot of the evaluation experimentation.
+    - [`plot_tradeoff.ipynb`](./src/plot_tradeoff.ipynb): Jupyter notebook to plot the tradeoff between the performance and fairness metrics.
 
 ## Bibtex
 
@@ -30,4 +43,9 @@ To cite this work, use the following bibtex entry:
 ```bibtex
 TBD
 ```
+
+## Issues
+
+This code is imported and adapted from the original research repository. Consequently, the code may contain bugs or issues.
+If you encounter any issues while running the code, please open an issue in the repository.
 

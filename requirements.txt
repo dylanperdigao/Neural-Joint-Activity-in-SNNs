@@ -1,0 +1,16 @@
+aequitas>=1.0.0
+ctgan
+dill
+imblearn
+lightgbm
+matplotlib
+numpy
+optuna
+optuna-dashboard
+pandas
+pyarrow
+PyYAML
+scikit-learn
+scipy
+seaborn
+snntorch>=0.9.1
