@@ -30,7 +30,7 @@ The repository is structured as follows:
 - [`src`](./src): Contains the source code of the project.
     - [`modules`](./src/modules): Contains the utilitary files used in the project.
     - [`get_best_hyperparams.ipynb`](./src/get_best_hyperparams.ipynb): Jupyter notebook to find the best combinations of hyperparameters for the 1D-Convolutional Spiking Neural Network architectures.
-    - [`get_metrics.ipynb`](./src/get_best_config.ipynb): Jupyter notebook to find the metrics for each architecture.
+    - [`get_metrics.ipynb`](./src/get_metrics.ipynb): Jupyter notebook to find the metrics for each architecture.
     - [`main_evaluation.py`](./src/main_evaluation.py): Main script to run the experimentation that repeats the classification multiple times for each dataset.
     - [`main_optimization.py`](./src/main_optimization.py): Main script to run the Bayesian optimization of the architectures with population coding.
     - [`plot_pareto_front.ipynb`](./src/plot_pareto_front.ipynb): Jupyter notebook to plot the Pareto front of the optimized architectures.
