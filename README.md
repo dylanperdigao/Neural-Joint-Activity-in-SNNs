@@ -1,5 +1,7 @@
 # Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13546087.svg)](https://doi.org/10.5281/zenodo.13546087)
+
 Source code of the paper accepted at CIARP 2024, the 27th IberoAmerican Congress on Pattern Recognition. 
 
 ## Paper Abstract
