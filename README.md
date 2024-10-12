@@ -43,7 +43,16 @@ The repository is structured as follows:
 
 To cite this work, use the following bibtex entry:
 ```bibtex
-TBD
+@inproceedings{perdigao2024, 
+    title={Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection},
+    author={Perdigão, Dylan and Antunes, Francisco and Silva, Catarina and Ribeiro, Bernardete},
+    booktitle={Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications},
+    series={Lecture Notes in Computer Science},
+    volume={15368}, 
+    ISBN={978-3-031-76607-7}, 
+    publisher={Springer Cham},
+    year={2024},
+}
 ```
 
 ## Issues
