@@ -43,15 +43,22 @@ The repository is structured as follows:
 
 To cite this work, use the following bibtex entry:
 ```bibtex
-@inproceedings{perdigao2024, 
-    title={Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection},
-    author={Perdigão, Dylan and Antunes, Francisco and Silva, Catarina and Ribeiro, Bernardete},
-    booktitle={Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications},
-    series={Lecture Notes in Computer Science},
-    volume={15368}, 
-    ISBN={978-3-031-76607-7}, 
-    publisher={Springer Cham},
-    year={2024},
+@inproceedings{10.1007/978-3-031-76604-6_4,
+    author="Perdig{\~a}o, Dylan
+    and Antunes, Francisco
+    and Silva, Catarina
+    and Ribeiro, Bernardete",
+    editor="Hern{\'a}ndez-Garc{\'i}a, Ruber
+    and Barrientos, Ricardo J.
+    and Velastin, Sergio A.",
+    title="Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection",
+    booktitle="Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications",
+    year="2025",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="45--59",
+    abstract="Spiking Neural Networks (SNNs), inspired by the real brain's behavior, offer an energy-efficient alternative to traditional artificial neural networks coupled with their neural joint activity, also referred to as population coding. This population coding is replicated in SNNs by attributing more than one neuron to each class in the output layer. This study leverages SNNs for fraud detection through real-world datasets, namely the Bank Account Fraud dataset suite, addressing the fairness and bias issues inherent in conventional machine learning algorithms. Different configurations of time steps and population sizes were compared within a 1D-Convolutional Spiking Neural Network, whose hyperparameters were optimized through a Bayesian optimization process. Our proposed SNN approach with neural joint activity enables the classification of fraudulent opening of bank accounts more accurately and fairly than standard SNNs. The results highlight the potential of SNNs to surpass non-population coding baselines by achieving an average of 47.08{\%} of recall at a business constraint of 5{\%} of false positive rate, offering a robust solution for fraud detection. Moreover, the proposed approach attains comparable results to gradient-boosting machine models while maintaining predictive equality towards sensitive attributes above 90{\%}.",
+    isbn="978-3-031-76604-6"
 }
 ```
 
