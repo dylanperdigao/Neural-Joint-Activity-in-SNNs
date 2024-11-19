@@ -33,7 +33,7 @@ The repository is structured as follows:
 - [`data`](./data/README.md): Contains the Bank Account Fraud dataset.
 - [`images`](./images): Contains the images used in this README file.
 - [`src`](./src): Contains the source code of the project.
-    - [`modules`](./src/modules): Contains the utilitary files used in the project.
+    - [`modules`](./src/modules): Contains the utility files used in the project.
     - [`get_best_hyperparams.ipynb`](./src/get_best_hyperparams.ipynb): Jupyter notebook to find the best combinations of hyperparameters for the 1D-Convolutional Spiking Neural Network architectures.
     - [`get_metrics.ipynb`](./src/get_metrics.ipynb): Jupyter notebook to find the metrics for each architecture.
     - [`main_evaluation.py`](./src/main_evaluation.py): Main script to run the experimentation that repeats the classification multiple times for each dataset.
