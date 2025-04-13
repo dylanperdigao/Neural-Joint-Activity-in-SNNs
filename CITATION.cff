@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite its respective paper: https://doi.org/10.1007/978-3-031-76604-6_4."
+authors:
+- family-names: "Perdigão"
+  given-names: "Dylan"
+  orcid: "https://orcid.org/0000-0001-6923-900X"
+title: "Neural Joint Activity in SNNs"
+version: 1.0.1
+doi: 10.5281/zenodo.13546087
+date-released: 2025-04-13
+url: "https://github.com/DylanPerdigao/Neural-Joint-Activity-in-SNNs"

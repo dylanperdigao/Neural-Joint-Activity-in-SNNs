@@ -4,24 +4,19 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-base)](https://paperswithcode.com/sota/fairness-on-baf-base?p=exploring-neural-joint-activity-in-spiking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-base)](https://paperswithcode.com/sota/fraud-detection-on-baf-base?p=exploring-neural-joint-activity-in-spiking)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-i)](https://paperswithcode.com/sota/fairness-on-baf-variant-i?p=exploring-neural-joint-activity-in-spiking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-i)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-i?p=exploring-neural-joint-activity-in-spiking)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-ii)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-ii?p=exploring-neural-joint-activity-in-spiking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-ii)](https://paperswithcode.com/sota/fairness-on-baf-variant-ii?p=exploring-neural-joint-activity-in-spiking)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-iii)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-iii?p=exploring-neural-joint-activity-in-spiking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-iii)](https://paperswithcode.com/sota/fairness-on-baf-variant-iii?p=exploring-neural-joint-activity-in-spiking)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-iv)](https://paperswithcode.com/sota/fairness-on-baf-variant-iv?p=exploring-neural-joint-activity-in-spiking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-iv)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-iv?p=exploring-neural-joint-activity-in-spiking)
-
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-v)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-v?p=exploring-neural-joint-activity-in-spiking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-v)](https://paperswithcode.com/sota/fairness-on-baf-variant-v?p=exploring-neural-joint-activity-in-spiking)
 
 
-Source code of the paper accepted at CIARP 2024, the 27th IberoAmerican Congress on Pattern Recognition. 
+Source code of the paper entitled "Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection" and presented at [CIARP 2024](http://www.ciarp24.org), the 27th Iberoamerican Congress on Pattern Recognition.
 
 ## Paper Abstract
 Spiking Neural Networks (SNNs), inspired by the real brain's behavior, offer an energy-efficient alternative to traditional artificial neural networks coupled with their neural joint activity, also referred to as population coding. This population coding is replicated in SNNs by attributing more than one neuron to each class in the output layer. This study leverages SNNs for fraud detection through real-world datasets, namely the Bank Account Fraud dataset suite, addressing the fairness and bias issues inherent in conventional machine learning algorithms. Different configurations of time steps and population sizes were compared within a 1D-Convolutional Spiking Neural Network, whose hyperparameters were optimized through a Bayesian optimization process.
@@ -63,11 +58,11 @@ The repository is structured as follows:
 To cite this work, use the following bibtex entry:
 ```bibtex
 @inproceedings{perdigao_exploring_2025,
-    author="Perdig{\~a}o, Dylan
+    author="Perdigão, Dylan
         and Antunes, Francisco
         and Silva, Catarina
         and Ribeiro, Bernardete",
-    editor="Hern{\'a}ndez-Garc{\'i}a, Ruber
+    editor="Hernández-García, Ruber
         and Barrientos, Ricardo J.
         and Velastin, Sergio A.",
     title="Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection",
@@ -77,7 +72,7 @@ To cite this work, use the following bibtex entry:
     address="Cham",
     pages="45--59",
     isbn="978-3-031-76604-6",
-    doi={10.1007/978-3-031-76604-6_4},
+    doi="10.1007/978-3-031-76604-6_4",
 }
 ```
 
