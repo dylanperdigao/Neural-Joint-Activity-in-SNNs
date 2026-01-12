@@ -2,20 +2,6 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13546087.svg)](https://doi.org/10.5281/zenodo.13546087) 
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-base)](https://paperswithcode.com/sota/fairness-on-baf-base?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-base)](https://paperswithcode.com/sota/fraud-detection-on-baf-base?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-i)](https://paperswithcode.com/sota/fairness-on-baf-variant-i?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-i)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-i?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-ii)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-ii?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-ii)](https://paperswithcode.com/sota/fairness-on-baf-variant-ii?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-iii)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-iii?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-iii)](https://paperswithcode.com/sota/fairness-on-baf-variant-iii?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-iv)](https://paperswithcode.com/sota/fairness-on-baf-variant-iv?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-iv)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-iv?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fraud-detection-on-baf-variant-v)](https://paperswithcode.com/sota/fraud-detection-on-baf-variant-v?p=exploring-neural-joint-activity-in-spiking)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/exploring-neural-joint-activity-in-spiking/fairness-on-baf-variant-v)](https://paperswithcode.com/sota/fairness-on-baf-variant-v?p=exploring-neural-joint-activity-in-spiking)
-
-
 Source code of the paper entitled "Exploring Neural Joint Activity in Spiking Neural Networks for Fraud Detection" and presented at [CIARP 2024](http://www.ciarp24.org), the 27th Iberoamerican Congress on Pattern Recognition.
 
 ## Paper Abstract
